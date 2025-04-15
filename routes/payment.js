@@ -1,5 +1,5 @@
-const backendURL = " https://f6ff-2409-40e3-20de-4efa-382b-ddac-a311-b187.ngrok-free.app/"
-//const backendURL = "http://localhost:4000/";
+//const backendURL = " https://f6ff-2409-40e3-20de-4efa-382b-ddac-a311-b187.ngrok-free.app/"
+const backendURL = "http://localhost:4000/";
 
 const express = require("express");
 const checksum_lib = require("../paytm/checksum");
